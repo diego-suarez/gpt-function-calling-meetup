@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gpt-function-calling-meetup/static/css/main.ad899ee9.css",
+    "main.js": "/gpt-function-calling-meetup/static/js/main.f146c4c6.js",
+    "static/media/image.jpeg": "/gpt-function-calling-meetup/static/media/image.da03d3750a6bac0ae170.jpeg",
+    "index.html": "/gpt-function-calling-meetup/index.html",
+    "main.ad899ee9.css.map": "/gpt-function-calling-meetup/static/css/main.ad899ee9.css.map",
+    "main.f146c4c6.js.map": "/gpt-function-calling-meetup/static/js/main.f146c4c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad899ee9.css",
+    "static/js/main.f146c4c6.js"
+  ]
+}
