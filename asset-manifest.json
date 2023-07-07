@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/gpt-function-calling-meetup/static/css/main.ad899ee9.css",
-    "main.js": "/gpt-function-calling-meetup/static/js/main.f146c4c6.js",
-    "static/media/image.jpeg": "/gpt-function-calling-meetup/static/media/image.da03d3750a6bac0ae170.jpeg",
+    "main.css": "/gpt-function-calling-meetup/static/css/main.a8756d03.css",
+    "main.js": "/gpt-function-calling-meetup/static/js/main.0db4c578.js",
+    "static/media/wat.jpeg": "/gpt-function-calling-meetup/static/media/wat.344de6a3c191b9eecdb6.jpeg",
+    "static/media/openai.png": "/gpt-function-calling-meetup/static/media/openai.9d263373674e43ffdac7.png",
     "index.html": "/gpt-function-calling-meetup/index.html",
-    "main.ad899ee9.css.map": "/gpt-function-calling-meetup/static/css/main.ad899ee9.css.map",
-    "main.f146c4c6.js.map": "/gpt-function-calling-meetup/static/js/main.f146c4c6.js.map"
+    "main.a8756d03.css.map": "/gpt-function-calling-meetup/static/css/main.a8756d03.css.map",
+    "main.0db4c578.js.map": "/gpt-function-calling-meetup/static/js/main.0db4c578.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad899ee9.css",
-    "static/js/main.f146c4c6.js"
+    "static/css/main.a8756d03.css",
+    "static/js/main.0db4c578.js"
   ]
 }
