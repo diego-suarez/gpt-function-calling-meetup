@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gpt-function-calling-meetup/static/css/main.a8756d03.css",
-    "main.js": "/gpt-function-calling-meetup/static/js/main.44c9d756.js",
+    "main.js": "/gpt-function-calling-meetup/static/js/main.29445cc6.js",
     "static/media/wat.jpeg": "/gpt-function-calling-meetup/static/media/wat.344de6a3c191b9eecdb6.jpeg",
     "static/media/openai.png": "/gpt-function-calling-meetup/static/media/openai.9d263373674e43ffdac7.png",
     "index.html": "/gpt-function-calling-meetup/index.html",
     "main.a8756d03.css.map": "/gpt-function-calling-meetup/static/css/main.a8756d03.css.map",
-    "main.44c9d756.js.map": "/gpt-function-calling-meetup/static/js/main.44c9d756.js.map"
+    "main.29445cc6.js.map": "/gpt-function-calling-meetup/static/js/main.29445cc6.js.map"
   },
   "entrypoints": [
     "static/css/main.a8756d03.css",
-    "static/js/main.44c9d756.js"
+    "static/js/main.29445cc6.js"
   ]
 }
